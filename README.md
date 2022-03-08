@@ -1,6 +1,5 @@
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SALAR (2)](https://user-images.githubusercontent.com/75142232/156443139-8e9b1e30-317a-4c2a-9ae7-aa9005f5cfd8.png)
+![SALAR](https://user-images.githubusercontent.com/75142232/157170969-17591da4-302a-4cb2-875f-38093d0625aa.gif)
 
 
 ### TECHNICAL SKILLS
