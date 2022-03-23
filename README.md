@@ -6,7 +6,7 @@
 🖥️
     
     
-![SALAR](https://user-images.githubusercontent.com/75142232/157170969-17591da4-302a-4cb2-875f-38093d0625aa.gif)
+![SALAR (1)](https://user-images.githubusercontent.com/75142232/159634077-3ef6ed86-1928-4f5a-9ca4-57ba09a652dd.gif)
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
