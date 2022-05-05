@@ -9,7 +9,6 @@
 ![SALAR (1)](https://user-images.githubusercontent.com/75142232/159634077-3ef6ed86-1928-4f5a-9ca4-57ba09a652dd.gif)
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">  TECHNICAL SKILLS 
 #### BACKEND_
