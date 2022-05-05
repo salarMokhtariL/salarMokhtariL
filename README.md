@@ -9,7 +9,7 @@
 ![SALAR (1)](https://user-images.githubusercontent.com/75142232/159634077-3ef6ed86-1928-4f5a-9ca4-57ba09a652dd.gif)
 
 
-### TCHNICAL SKILLS 
+### TECHNICAL SKILLS 
 #### BACKEND_
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
