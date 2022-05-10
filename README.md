@@ -4,7 +4,7 @@
     </div>
         
     
-![SALAR (1)](https://user-images.githubusercontent.com/75142232/159634077-3ef6ed86-1928-4f5a-9ca4-57ba09a652dd.gif)
+![Blue and White Gradient Modern Business Management Mentor Linkendln Banner](https://user-images.githubusercontent.com/75142232/167618153-81ad1b36-4e15-4ee8-98bf-98b6218da9e5.gif)
 
 
 ### TECHNICAL_SKILLS: 
