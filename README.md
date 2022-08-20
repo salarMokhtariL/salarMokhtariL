@@ -6,7 +6,8 @@ SML
     </div>
         
     
-![Blue and White Gradient Modern Business Management Mentor Linkendln Banner](https://user-images.githubusercontent.com/75142232/167618153-81ad1b36-4e15-4ee8-98bf-98b6218da9e5.gif)
+![Red and Blue Education LinkedIn Banner](https://user-images.githubusercontent.com/75142232/185733528-054a7af9-4dc1-424e-99a0-15fb3408efe0.gif)
+
 
 
 ### TECHNICAL_SKILLS: 
