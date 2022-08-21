@@ -8,6 +8,7 @@ SML
     
 ![Red and Blue Education LinkedIn Banner](https://user-images.githubusercontent.com/75142232/185733528-054a7af9-4dc1-424e-99a0-15fb3408efe0.gif)
 ![Red and Blue Education LinkedIn Banner (1)](https://user-images.githubusercontent.com/75142232/185783007-16074bb7-0975-484c-bbc0-a7f08c7152fd.png)
+![Red and Blue Education LinkedIn Banner (2)](https://user-images.githubusercontent.com/75142232/185783607-b4fb0794-2c9f-45f1-800f-d64dd7ec8d2b.png)
 
 
 
