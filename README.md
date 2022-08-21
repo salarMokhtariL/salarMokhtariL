@@ -8,16 +8,10 @@ SML
     
 ![Red and Blue Education LinkedIn Banner](https://user-images.githubusercontent.com/75142232/185733528-054a7af9-4dc1-424e-99a0-15fb3408efe0.gif)
 ![Red and Blue Education LinkedIn Banner (1)](https://user-images.githubusercontent.com/75142232/185783007-16074bb7-0975-484c-bbc0-a7f08c7152fd.png)
-![Red and Blue Education LinkedIn Banner (2)](https://user-images.githubusercontent.com/75142232/185783607-b4fb0794-2c9f-45f1-800f-d64dd7ec8d2b.png)
+![Red and Blue Education LinkedIn Banner (3)](https://user-images.githubusercontent.com/75142232/185783713-35b5306b-6410-4d76-8d0d-2dd152bcf32f.png)
 
 
 
-### TECHNICAL_SKILLS: 
-#### BACKEND
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
 
 #### FRONTEND
