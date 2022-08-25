@@ -7,7 +7,7 @@ SML
         
     
 ![Red and Blue Education LinkedIn Banner](https://user-images.githubusercontent.com/75142232/185733528-054a7af9-4dc1-424e-99a0-15fb3408efe0.gif)
-![Blue and Orange Friendly Corporate Manufacturing X-Frame Banner](https://user-images.githubusercontent.com/75142232/186626403-ad5d5b36-4036-4c98-a29b-9b90a0413480.png)
+![Blue and Orange Friendly Corporate Manufacturing X-Frame Banner (1)](https://user-images.githubusercontent.com/75142232/186627423-7787833a-9d05-44f7-8c64-1d9eaf5f0f8b.png)
 
 
 
