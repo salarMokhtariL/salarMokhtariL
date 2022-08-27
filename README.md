@@ -11,4 +11,5 @@
 
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="salar-mokhtari-laleh-22508b91" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/salar-mokhtari-laleh-22508b91?trk=profile-badge">salar mokhtari laleh</a></div>
+              
