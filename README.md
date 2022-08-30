@@ -1,5 +1,4 @@
 
-<img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="850" height="280">
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salar+Mokhtari+;Computer+Engineering+Student;Back-End+Developer;artificial+intelligence;deep+learning;data+science;Open-Source+Enthusiast" alt="Headline" />
