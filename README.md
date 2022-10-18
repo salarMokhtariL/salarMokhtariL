@@ -1,2 +1,2 @@
 # Salar Mokhtari Laleh 
-^_^ programmer
+Researcher in the fields of machine learning and deep learning
