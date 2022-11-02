@@ -10,7 +10,7 @@
 
 Researcher in the fields of machine learning and deep learning
 
-<p align="right">
+<spam align="right">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salarMokhtariL&theme=moonlight)
-</p>
+</spam>
