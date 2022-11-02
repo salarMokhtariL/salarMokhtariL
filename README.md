@@ -12,4 +12,3 @@ Researcher in the fields of machine learning and deep learning
 
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={salarMokhtariL}&theme=vue)
