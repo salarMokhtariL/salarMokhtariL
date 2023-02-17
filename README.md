@@ -9,7 +9,6 @@
 
 
 
-**Researcher in the fields of machine learning and deep learning**
 
 <spam align="right">
 
