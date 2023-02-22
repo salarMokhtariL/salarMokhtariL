@@ -10,7 +10,4 @@
 
 
 
-<spam align="right">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salarMokhtariL&theme=moonlight)
-</spam>
