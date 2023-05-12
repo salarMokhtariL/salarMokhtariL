@@ -1,4 +1,4 @@
-![SalarMokhtariLaleh](https://user-images.githubusercontent.com/75142232/219123803-abf1254c-5988-4576-a827-ed2b8305fdb0.png)
+![White And Black Modern  School Admission LinkedIn Banner](https://github.com/salarMokhtariL/salarMokhtariL/assets/75142232/ab4c706e-03a5-487d-aabc-c31dc2c28c1a)
 <br />
 	<p align="center">
 	<a href="salarmokhtari0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
