@@ -1,11 +1,14 @@
-# Salar Mokhtari Laleh 
-<br />
-	<p align="center">
-	<a href="salarmokhtari0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-	<a href="https://github.com/salarMokhtariL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/salar-mokhtari-laleh-22508b91/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-	<a href="https://t.me/Salarmokhtaril"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-	</p>
+<h1 align="lef">Salar Mokhtari Laleh </h1>
+<h3 align="left">Artificial Intelligence Researchers & Lecturers</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salarmokhtaril&label=Profile%20views&color=AE5175&style=flat" alt="salarmokhtaril" /> </p>
+<p align="justify">As a dedicated graduate of the University of Tabriz with a Bachelor's degree in Computer Engineering, I, Salar Mokhtari Laleh, am actively engaged in driving advancements in artificial intelligence. My expertise encompasses machine learning, natural language processing, and computer vision, areas in which I continuously strive for excellence. Through my commitment to research and education, I aim to contribute meaningfully to the field of AI, leveraging its potential for positive societal impact and intellectual growth.</p>
+
+<p>Email: <b>salarmokhtari0@gmail.com</b></p>
 
 
 
+<div align="center">
+<a href="https://github.com/salarmokhtaril">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salarmokhtaril&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salarmokhtaril&theme=2077" height="180em" />
+</div>
