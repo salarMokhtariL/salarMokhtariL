@@ -9,4 +9,4 @@
 | :---         |   :---        |    :---   |
 |  **Human-Computer Interaction**  | **Robotic & IoT**     | **Optimization & Algorithms**    |
 
-<p>Email: <b>salarmokhtari0@gmail.com</b></p>
+<p>Email: <strong>salarmokhtari0@gmail.com</strong></p>
