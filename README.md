@@ -7,6 +7,6 @@
 
 | Computer Vision | Machine Learning | Deep Learning |
 | :---         |   :---        |    :---   |
-|  **Human-Computer Interaction**  | **Robotic & IoT**     | **Optimization & Algorithms**    |
+|  **Human-Computer Interaction**  | **Robotic & IoT**     | **Optimization & Algorithm**    |
 
 <p>Email: <strong>salarmokhtari0@gmail.com</strong></p>
