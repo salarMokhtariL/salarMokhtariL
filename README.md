@@ -5,8 +5,8 @@
 
 ## Research Interests
 
-| Computer Vision | Machine Learning | Deep Learning |
+| Deep RL | RL | SLAM |
 | :---         |   :---        |    :---   |
-|  **Human-Computer Interaction**  | **Robotic & IoT**     | **Optimization & Algorithm**    |
+|  **ML**  | **Robotic & IoT**     | **Computer Version**    |
 
 <p>Email: <strong>salarmokhtari0@gmail.com</strong></p>
